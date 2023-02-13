@@ -30,5 +30,4 @@ Team 3LEIC06T3:
  - Miguel Freitas    - up201906159
  - Joana Mesquita    - up201907878
  - Diogo Pereira     - up201906422
- - Guilherme Diogo   - up201806340
  - Carolina Figueira - up201906845
